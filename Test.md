@@ -11,7 +11,7 @@
 <div align="center" style="padding-top: 20px;">
   <h2>👩‍💻 About Me</h2>
   <p>
-    🔭 I’m currently working on an android app<br>👯 I’m looking to collaborate on open projjects<br>🌱 I’m currently learning react-native<br>⚡ Fun fact - did you know that .....
+    I'm a 2nd-year computer science undergraduate at IIT, coding my way through challenges and chasing dreams 🚀. I love building projects, exploring tech, and collaborating with creative minds 🤝. From mastering algorithms to embracing innovation, my journey is driven by curiosity and a relentless pursuit of excellence. I transform ideas into reality with passion and code 💻.
   </p>
 </div>
 
