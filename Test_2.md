@@ -1,1 +1,2 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Input%20text" alt="Typing SVG" />
+<img src="https://raw.githubusercontent.com/PamuduW/PamuduW/main/pics/bg.jpg" alt="Background Image" />
