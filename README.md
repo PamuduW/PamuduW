@@ -1,17 +1,19 @@
-<div align="center" style="padding-top: 20px;">
+<div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=35&duration=3000&pause=700&color=40DC5B&center=true&vCenter=true&width=500&height=70&lines=Hi+there+%F0%9F%91%8B;I'm+Pamudu+Wijesingha" alt="Typing SVG" />
 </div>
 
 
 <div align="center" style="padding-top: 20px;">
 <img src="https://komarev.com/ghpvc/?username=PamuduW&base=200" alt="Profile Views Counter" />
+<img src="https://komarev.com/ghpvc/?username=PamuduW&base=200" alt="Profile Views Counter" />
+<img src="https://komarev.com/ghpvc/?username=PamuduW&base=200" alt="Profile Views Counter" />
 </div>
 
 
-<div align="center" style="padding-top: 20px;">
-  <h2>👩‍💻 About Me</h2>
+<div align="center">
+  <h2></h2>
   <p>
-    🔭 I’m currently working on an android app<br>👯 I’m looking to collaborate on open projjects<br>🌱 I’m currently learning react-native<br>⚡ Fun fact - did you know that .....
+    🔭 I’m currently working on an android app👯 I’m looking to collaborate on open projjects🌱 I’m currently learning react-native⚡ Fun fact - did you know that .....
   </p>
 </div>
 
