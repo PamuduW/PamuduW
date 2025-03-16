@@ -1,5 +1,4 @@
-<div>
-  <img src="https://raw.githubusercontent.com/PamuduW/PamuduW/main/pics/bg.jpg" alt="Background Image" style="width: 100%; height: auto;">
+<div style="background-image: url('https://raw.githubusercontent.com/PamuduW/PamuduW/main/pics/bg.jpg'); background-size: cover; background-position: center; width: 100%; height: 300px;">
   <div align="center">
     <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&size=35&duration=3000&pause=700&color=40DC5B&center=true&vCenter=true&width=500&height=70&lines=Hi+there+%F0%9F%91%8B;I'm+Pamudu+Wijesingha" alt="Typing SVG" />
   </div>
@@ -17,9 +16,9 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PamuduW/PamuduW/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PamuduW/PamuduW/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PamuduW/PamuduW/output/github-snake.svg" />
 </picture>
 
 <div align="center">
