@@ -14,7 +14,7 @@ I recently completed a year-long DevOps internship where I worked on cloud appli
 
 ## Selected Proof Of Work
 
-- [freeplayground](https://github.com/PamuduW/freeplayground)  
+- [freeplayground on GitHub](https://github.com/PamuduW/freeplayground) | [freeplayground on GitLab](https://gitlab.com/PamuduW/freeplayground)  
   DevOps proof-of-work repo covering Linux, Docker, GitLab workflows, Bash automation, and weekly lab artifacts.
 
 - [agent_bootstrap](https://github.com/PamuduW/agent_bootstrap)  
@@ -31,6 +31,7 @@ I recently completed a year-long DevOps internship where I worked on cloud appli
 
 ## Connect
 
+- [GitHub](https://github.com/PamuduW)
 - [LinkedIn](https://www.linkedin.com/in/pamudu-wijesingha/)
 - [GitLab](https://gitlab.com/PamuduW)
 - [Email](mailto:pamuduwijesingha2k20@gmail.com)
