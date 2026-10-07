@@ -1,37 +1,30 @@
 # Pamudu Wijesingha
 
-Junior DevOps and platform-focused engineer building practical CI/CD, release, automation, and Linux-first workflows.
+DevOps engineer working on CI/CD pipelines, release engineering, and cloud automation.
 
-I recently completed a year-long DevOps internship where I worked on cloud application release workflows, artifact movement, Azure automation, pipeline visibility, and internal platform support. I am now focused on Associate DevOps Engineer, Junior DevOps Engineer, Platform Engineer, and DevSecOps-leaning entry-level roles.
+I'm a DevOps Engineer Intern at IFS R&D, working on the release pipelines for an enterprise cloud product. I like automation that is safe to rerun, checks its own output, and stays easy for the next engineer to maintain. Outside work I build open-source tooling for Linux/WSL setup and AI coding agents.
 
-## What I Work With
+## What I work with
 
-- CI/CD and release engineering with GitLab CI/CD, Jenkins, JFrog Artifactory, and Azure DevOps
-- Linux-first development using WSL, Bash automation, Docker, and CLI-heavy workflows
-- Azure operations work across Blob Storage, Container Registry, and release-support automation
-- Python, Go, and shell tooling for platform support, automation, and repo maintenance
-- Practical developer tooling with AI GUI and CLI agents where they genuinely speed up delivery
+- **CI/CD and release:** GitLab CI/CD, Bitbucket Pipelines, Jenkins, Azure DevOps
+- **Cloud and artifacts:** Azure (Blob Storage, Container Registry, RBAC), JFrog Artifactory, Docker, Helm
+- **Languages:** Bash, Python, Go, PowerShell
+- **Environment:** Linux-first on Ubuntu/Debian and WSL2, CLI-heavy workflows
+- **Learning now:** Kubernetes (CKA) and Azure (AZ-900)
 
-## Selected Proof Of Work
+## Recent work
 
-- [freeplayground on GitHub](https://github.com/PamuduW/freeplayground) | [freeplayground on GitLab](https://gitlab.com/PamuduW/freeplayground)  
-  DevOps proof-of-work repo covering Linux, Docker, GitLab workflows, Bash automation, and weekly lab artifacts.
+- Cut a release pipeline's median runtime by 73% by running its checks concurrently.
+- Built artifact migration tooling from JFrog to Azure: 2,200+ artifacts across four environments, with checksum validation.
+- Added image-digest checks that stop mismatched release inputs before they ship.
 
-- [agent_bootstrap](https://github.com/PamuduW/agent_bootstrap)  
-  Python and Bash tooling for managing multi-agent development configuration from a single source of truth.
+## Projects
 
-- [SayMore](https://github.com/PamuduW/SayMore)  
-  End-to-end university project with FastAPI, Firebase, Docker, deployment assets, and contributor setup documentation.
-
-## Current Focus
-
-- Building stronger release engineering and platform automation depth
-- Sharpening Azure, containers, and DevSecOps fundamentals
-- Keeping public proof-of-work clean, technical, and easy to review
+- **[Agentbot](https://github.com/PamuduW/agentbot)**: Python/Bash CLI that manages AI coding-agent configuration for Claude Code, Codex, and Cursor from one source, with previewed changes, read-only MCP tool filters, and a validated Git-backed memory store.
+- **[Dotfiles](https://github.com/PamuduW/dotfiles)**: one-command WSL2 bootstrap with a 21-component installer, health checks, and a ShellCheck and shell-test validation gate.
+- **[freeplayground](https://github.com/PamuduW/freeplayground)** ([GitLab](https://gitlab.com/PamuduW/freeplayground)): my public DevOps lab notebook with Docker, Compose, Bash automation, and CI experiments.
+- **[SayMore](https://github.com/PamuduW/SayMore)**: AI speech-analysis app; I led the university team and built the FastAPI backend, Docker packaging, and Firebase integration.
 
 ## Connect
 
-- [GitHub](https://github.com/PamuduW)
-- [LinkedIn](https://www.linkedin.com/in/pamudu-wijesingha/)
-- [GitLab](https://gitlab.com/PamuduW)
-- [Email](mailto:pamuduwijesingha2k20@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/pamudu-wijesingha/) · [GitHub](https://github.com/PamuduW) · [GitLab](https://gitlab.com/PamuduW) · [Email](mailto:pamuduwijesingha2k20@gmail.com)
