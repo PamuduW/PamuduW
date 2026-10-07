@@ -16,7 +16,7 @@ I'm a DevOps Engineer Intern at IFS R&D, working on the release pipelines for an
 
 - Cut a release pipeline's median runtime by 73% by running its checks concurrently.
 - Built artifact migration tooling from JFrog to Azure: 2,200+ artifacts across four environments, with checksum validation.
-- Added image-digest checks that stop a release from shipping with the wrong container image.
+- Added image-digest checks that verify every container image before release.
 
 ## Projects
 
